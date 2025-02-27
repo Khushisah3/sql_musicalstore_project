@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/dcc04a88-12c9-4d95-830a-e294b2ab5873)
 # sql_musicalstore_project
 
 Postgre SQL
